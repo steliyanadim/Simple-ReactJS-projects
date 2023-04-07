@@ -1,0 +1,19 @@
+.container {
+    background: hsl(16.97deg 87.61% 77.84%);
+    font-size: 1.5rem;
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-size: 3.5rem;
+    color: #359665;
+    margin: 0 0 70px 0;
+    padding-top: 60px
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+
+}
